@@ -8,10 +8,6 @@ neptun: GF9EDC
 
 **Supervisor:** Dr. Ádám Schiffer
 
-**Name:** TAOFUYUAN
-
-**NEPTUN code:** GF9EDC
-
 ## 1. Why I Am Interested
 
 I am interested in this project because I want to learn how signals from the human body can be used to build a computer model. I would like to understand how ECG and PPG signals might help estimate blood pressure.
