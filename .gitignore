@@ -1,0 +1,14 @@
+# Local Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Keep local datasets out of version control
+/data/
+
+# Local settings and operating system files
+.env
+.DS_Store
+Thumbs.db
